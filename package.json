@@ -10,7 +10,7 @@
     "bootstrap": "^4.4.1",
     "express": "^4.17.1",
     "html2canvas": "^1.0.0-rc.5",
-    "jspdf": "^1.5.3",
+    "jspdf": "^2.3.1",
     "mdbreact": "^4.23.1",
     "mongodb": "^3.4.0",
     "mongoose": "^5.8.1",
